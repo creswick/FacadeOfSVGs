@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300.62299"
+   height="24"
+   id="svg30571"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="textfield.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs30573">
+    <clipPath
+       id="SVGID_114_">
+			<use
+   xlink:href="#SVGID_113_"
+   overflow="visible"
+   id="use27130"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+		</clipPath>
+    <clipPath
+       id="SVGID_112_">
+		<use
+   xlink:href="#SVGID_111_"
+   overflow="visible"
+   id="use27122"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+	</clipPath>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective30579" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-63.571429"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="736"
+     inkscape:window-height="707"
+     inkscape:window-x="638"
+     inkscape:window-y="292" />
+  <metadata
+     id="metadata30576">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(324.59721,-297.50504)">
+    <g
+       id="g27116"
+       transform="translate(-531.28421,239.74504)">
+	<defs
+   id="defs27118">
+  <path
+     id="SVGID_111_"
+     d="M 208.187,58.26 L 505.81,58.26 C 506.363,58.26 506.81,58.708 506.81,59.26 L 506.81,80.26 C 506.81,80.812 506.363,81.26 505.81,81.26 L 208.187,81.26 C 207.635,81.26 207.187,80.812 207.187,80.26 L 207.187,80.26 L 207.187,59.26 C 207.187,58.708 207.635,58.26 208.187,58.26 z" />
+</defs>
+
+	<clipPath
+   id="clipPath30588">
+		<use
+   xlink:href="#SVGID_111_"
+   overflow="visible"
+   id="use30590"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+	</clipPath>
+
+	<g
+   clip-path="url(#SVGID_112_)"
+   id="g27124">
+		<defs
+   id="defs27126">
+  <rect
+     id="SVGID_113_"
+     x="206.687"
+     y="57.759998"
+     width="300.62299"
+     height="24" />
+</defs>
+
+		<clipPath
+   id="clipPath30595">
+			<use
+   xlink:href="#SVGID_113_"
+   overflow="visible"
+   id="use30597"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+		</clipPath>
+
+		<g
+   transform="translate(0,-3.814697e-6)"
+   clip-path="url(#SVGID_114_)"
+   id="g27132">
+			
+				<image
+   overflow="visible"
+   width="256"
+   height="23"
+   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAAUCAYAAABiQuNfAAAACXBIWXMAAAlhAAAJYQHPYu7hAAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAF1JREFUeNrs2MENACAIA0A0DuZm Ojm4hgl3I/BoWkZmnoi4AXSzpxtAXwIAGltV5QqgAQACADABAA0AEACACQBoAIAAAEwAQAMABAAg AAA/AEADAAQAYAIAn3gCDACJ2hZbl74IeAAAAABJRU5ErkJggg=="
+   transform="matrix(1.1743,0,0,1.0435,206.687,57.7598)"
+   id="image27134"
+   style="overflow:visible">
+			</image>
+
+		</g>
+
+	</g>
+
+</g>
+    <path
+       stroke-miterlimit="10"
+       d="M -323.09721,298.00504 L -25.474214,298.00504 C -24.921214,298.00504 -24.474214,298.45304 -24.474214,299.00504 L -24.474214,320.00504 C -24.474214,320.55704 -24.921214,321.00504 -25.474214,321.00504 L -323.09721,321.00504 C -323.64921,321.00504 -324.09721,320.55704 -324.09721,320.00504 L -324.09721,320.00504 L -324.09721,299.00504 C -324.09721,298.45304 -323.64921,298.00504 -323.09721,298.00504 z"
+       id="path27136"
+       style="fill:none;stroke:#6d6d6d;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+  </g>
+</svg>

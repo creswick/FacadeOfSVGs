@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48.368999"
+   height="25"
+   id="svg29692"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="spinner.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs29694">
+    <clipPath
+       id="SVGID_106_">
+			<use
+   xlink:href="#SVGID_105_"
+   overflow="visible"
+   id="use27078"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+		</clipPath>
+    <clipPath
+       id="SVGID_104_">
+		<use
+   xlink:href="#SVGID_103_"
+   overflow="visible"
+   id="use27070"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+	</clipPath>
+    <clipPath
+       id="SVGID_110_">
+			<use
+   xlink:href="#SVGID_109_"
+   overflow="visible"
+   id="use27102"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+		</clipPath>
+    <clipPath
+       id="SVGID_108_">
+		<use
+   xlink:href="#SVGID_107_"
+   overflow="visible"
+   id="use27094"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+	</clipPath>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective29700" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="640"
+     inkscape:window-height="707"
+     inkscape:window-x="638"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata29697">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-295.8155,-388.43361)">
+    <g
+       id="g27064"
+       transform="translate(88.2555,166.67361)">
+	<defs
+   id="defs27066">
+  <path
+     id="SVGID_103_"
+     d="M 241.12,222.26 L 253.429,222.26 C 254.533,222.26 255.429,223.156 255.429,224.26 L 255.429,244.26 C 255.429,245.364 254.533,246.26 253.429,246.26 L 241.12,246.26 C 240.016,246.26 239.12,245.364 239.12,244.26 L 239.12,244.26 L 239.12,224.26 C 239.12,223.155 240.016,222.26 241.12,222.26 z" />
+</defs>
+
+	<clipPath
+   id="clipPath29713">
+		<use
+   xlink:href="#SVGID_103_"
+   overflow="visible"
+   id="use29715"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+	</clipPath>
+
+	<g
+   clip-path="url(#SVGID_104_)"
+   id="g27072">
+		<defs
+   id="defs27074">
+  <rect
+     id="SVGID_105_"
+     x="238.62"
+     y="221.75999"
+     width="17.309"
+     height="25" />
+</defs>
+
+		<clipPath
+   id="clipPath29720">
+			<use
+   xlink:href="#SVGID_105_"
+   overflow="visible"
+   id="use29722"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+		</clipPath>
+
+		<g
+   transform="translate(-1.525879e-5,0)"
+   clip-path="url(#SVGID_106_)"
+   id="g27080">
+			
+				<image
+   overflow="visible"
+   width="17"
+   height="24"
+   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAZCAYAAAA8CX6UAAAACXBIWXMAAArrAAAK6wGCiw1aAAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAE1JREFUeNrs0sEJADAIA0Af7u1q HcVJkjpCQSki5uMvnKiQNOZjCkAqotFWU7SiFxGrRFjRt6ux2x8R7VabLCq7GqaKwuMxT7LHrwAD ABd9jzM8Qo1BAAAAAElFTkSuQmCC"
+   transform="matrix(1.0182,0,0,1.0417,238.6201,221.7598)"
+   id="image27082"
+   style="overflow:visible">
+			</image>
+
+		</g>
+
+	</g>
+
+</g>
+    <path
+       stroke-miterlimit="10"
+       d="M 329.3755,388.93361 L 341.6845,388.93361 C 342.7885,388.93361 343.6845,389.82961 343.6845,390.93361 L 343.6845,410.93361 C 343.6845,412.03761 342.7885,412.93361 341.6845,412.93361 L 329.3755,412.93361 C 328.2715,412.93361 327.3755,412.03761 327.3755,410.93361 L 327.3755,410.93361 L 327.3755,390.93361 C 327.3755,389.82861 328.2715,388.93361 329.3755,388.93361 z"
+       id="path27084"
+       style="fill:none;stroke:#6d6d6d;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+    <line
+       stroke-miterlimit="10"
+       x1="332.06549"
+       y1="400.43359"
+       x2="343.18549"
+       y2="400.43359"
+       id="line27086"
+       style="fill:none;stroke:#bfbfbf;stroke-linejoin:round;stroke-miterlimit:10" />
+    <g
+       id="g27088"
+       transform="translate(88.2555,166.67361)">
+	<defs
+   id="defs27090">
+  <path
+     id="SVGID_107_"
+     d="M 209.06,222.26 L 244.06,222.26 C 244.612,222.26 245.06,222.708 245.06,223.26 L 245.06,245.26 C 245.06,245.812 244.612,246.26 244.06,246.26 L 209.06,246.26 C 208.508,246.26 208.06,245.812 208.06,245.26 L 208.06,245.26 L 208.06,223.26 C 208.06,222.708 208.508,222.26 209.06,222.26 z" />
+</defs>
+
+	<clipPath
+   id="clipPath29731">
+		<use
+   xlink:href="#SVGID_107_"
+   overflow="visible"
+   id="use29733"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+	</clipPath>
+
+	<g
+   clip-path="url(#SVGID_108_)"
+   id="g27096">
+		<defs
+   id="defs27098">
+  <rect
+     id="SVGID_109_"
+     x="207.56"
+     y="221.75999"
+     width="38"
+     height="25" />
+</defs>
+
+		<clipPath
+   id="clipPath29738">
+			<use
+   xlink:href="#SVGID_109_"
+   overflow="visible"
+   id="use29740"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+		</clipPath>
+
+		<g
+   transform="translate(1.525879e-5,0)"
+   clip-path="url(#SVGID_110_)"
+   id="g27104">
+			
+				<image
+   overflow="visible"
+   width="37"
+   height="24"
+   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAYCAYAAACWTY9zAAAACXBIWXMAAArDAAAKwwE0KSSrAAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAD1JREFUeNrs0sENADAIw0CEujej 044RVecHb4u4d3c2jznvVCJdocSKmZKYxohpzJTENGZKHyP2d2NXgAEAdz+rkgp/HKgAAAAASUVO RK5CYII="
+   transform="matrix(1.027,0,0,1.0417,207.5601,221.7598)"
+   id="image27106"
+   style="overflow:visible">
+			</image>
+
+		</g>
+
+	</g>
+
+</g>
+    <path
+       stroke-miterlimit="10"
+       d="M 297.3155,388.93361 L 332.3155,388.93361 C 332.8675,388.93361 333.3155,389.38161 333.3155,389.93361 L 333.3155,411.93361 C 333.3155,412.48561 332.8675,412.93361 332.3155,412.93361 L 297.3155,412.93361 C 296.7635,412.93361 296.3155,412.48561 296.3155,411.93361 L 296.3155,411.93361 L 296.3155,389.93361 C 296.3155,389.38161 296.7635,388.93361 297.3155,388.93361 z"
+       id="path27108"
+       style="fill:none;stroke:#6d6d6d;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+    <text
+       font-size="12"
+       id="text27110"
+       x="303.81561"
+       y="404.43341"
+       style="font-size:12px;font-family:Helvetica">16</text>
+    <polygon
+       points="247.38,238.72 250.192,242.32 253.005,238.72 247.38,238.72 "
+       id="polygon27112"
+       transform="translate(88.2555,166.67361)" />
+    <polygon
+       points="247.38,229.79 250.192,226.19 253.005,229.79 247.38,229.79 "
+       id="polygon27114"
+       transform="translate(88.2555,166.67361)" />
+  </g>
+</svg>

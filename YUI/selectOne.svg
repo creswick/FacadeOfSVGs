@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="186"
+   height="24"
+   id="svg29622"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="selectOne.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs29624">
+    <clipPath
+       id="SVGID_64_">
+			<use
+   xlink:href="#SVGID_63_"
+   overflow="visible"
+   id="use26778"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+		</clipPath>
+    <clipPath
+       id="SVGID_62_">
+		<use
+   xlink:href="#SVGID_61_"
+   overflow="visible"
+   id="use26770"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+	</clipPath>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective29630" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="99.433057"
+     inkscape:cy="-20.66553"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="899"
+     inkscape:window-height="707"
+     inkscape:window-x="1604"
+     inkscape:window-y="237" />
+  <metadata
+     id="metadata29627">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.714286,-434.6479)">
+    <g
+       id="g29655">
+      <g
+         transform="translate(-154.84571,164.8879)"
+         id="g26764">
+	<defs
+   id="defs26766">
+  <path
+     d="M 210.06,270.26 L 391.06,270.26 C 392.164,270.26 393.06,271.156 393.06,272.26 L 393.06,291.26 C 393.06,292.364 392.164,293.26 391.06,293.26 L 210.06,293.26 C 208.956,293.26 208.06,292.364 208.06,291.26 L 208.06,291.26 L 208.06,272.26 C 208.06,271.155 208.956,270.26 210.06,270.26 z"
+     id="SVGID_61_" />
+</defs>
+
+	<clipPath
+   id="clipPath29639">
+		<use
+   height="1052.3622"
+   width="744.09448"
+   y="0"
+   x="0"
+   style="overflow:visible"
+   id="use29641"
+   overflow="visible"
+   xlink:href="#SVGID_61_" />
+
+	</clipPath>
+
+	<g
+   id="g26772"
+   clip-path="url(#SVGID_62_)">
+		<defs
+   id="defs26774">
+  <rect
+     height="24"
+     width="186"
+     y="269.76001"
+     x="207.56"
+     id="SVGID_63_" />
+</defs>
+
+		<clipPath
+   id="clipPath29646">
+			<use
+   height="1052.3622"
+   width="744.09448"
+   y="0"
+   x="0"
+   style="overflow:visible"
+   id="use29648"
+   overflow="visible"
+   xlink:href="#SVGID_63_" />
+
+		</clipPath>
+
+		<g
+   id="g26780"
+   clip-path="url(#SVGID_64_)"
+   transform="translate(-1.525879e-5,0)">
+			
+				<image
+   style="overflow:visible"
+   id="image26782"
+   transform="matrix(1.0054,0,0,1.0435,207.5601,269.7598)"
+   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALsAAAAYCAYAAACiGIwqAAAACXBIWXMAAAsSAAALEgHS3X78AAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAHRJREFUeNrs19ENgCAQRMEzoW+p /MAa/FJ2pgRyeVmu7r6rahacbY7n2D0DEcZayyuQcezKTs6xKzsxM0bZUXZQdlB2+HbZHTtmDJgx 8NeyO3ZSym7GYMaADyooOyg7KDsoOyg7vC+7Y8exw2kzxmYnxBZgACFrSXG/yWojAAAAAElFTkSu QmCC"
+   height="23"
+   width="185"
+   overflow="visible">
+			</image>
+
+		</g>
+
+	</g>
+
+</g>
+      <path
+         style="fill:none;stroke:#6d6d6d;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         id="path26784"
+         d="M 55.214286,435.1479 L 236.21429,435.1479 C 237.31829,435.1479 238.21429,436.0439 238.21429,437.1479 L 238.21429,456.1479 C 238.21429,457.2519 237.31829,458.1479 236.21429,458.1479 L 55.214286,458.1479 C 54.110286,458.1479 53.214286,457.2519 53.214286,456.1479 L 53.214286,456.1479 L 53.214286,437.1479 C 53.214286,436.0429 54.110286,435.1479 55.214286,435.1479 z"
+         stroke-miterlimit="10" />
+      <text
+         style="font-size:13px;font-family:ArialMT"
+         y="450.64771"
+         x="60.714386"
+         id="text26786"
+         font-size="13">- Select One -</text>
+      <polygon
+         transform="translate(-154.84571,164.8879)"
+         id="polygon26788"
+         points="381.49,279.96 384.99,284.44 388.49,279.96 381.49,279.96 " />
+    </g>
+  </g>
+</svg>

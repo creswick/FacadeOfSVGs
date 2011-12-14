@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="73.662582"
+   height="13.204239"
+   id="svg30918"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="radioButton.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs30920">
+    <clipPath
+       id="SVGID_16_">
+			<use
+   xlink:href="#SVGID_15_"
+   overflow="visible"
+   id="use26474"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+		</clipPath>
+    <clipPath
+       id="SVGID_14_">
+		<use
+   xlink:href="#SVGID_13_"
+   overflow="visible"
+   id="use26466"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+	</clipPath>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective30926" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="736"
+     inkscape:window-height="707"
+     inkscape:window-x="638"
+     inkscape:window-y="292" />
+  <metadata
+     id="metadata30923">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-217.45442,-220.04578)">
+    <g
+       id="g26460"
+       transform="translate(10.547668,-270.58398)">
+	<defs
+   id="defs26462">
+  <path
+     id="SVGID_13_"
+     d="M 217.649,492.887 C 219.992,495.231 219.992,499.03 217.649,501.372 C 215.306,503.716 211.507,503.716 209.164,501.372 C 206.821,499.029 206.821,495.23 209.164,492.887 C 211.507,490.544 215.307,490.544 217.649,492.887" />
+</defs>
+
+	<clipPath
+   id="clipPath30935">
+		<use
+   xlink:href="#SVGID_13_"
+   overflow="visible"
+   id="use30937"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+	</clipPath>
+
+	<g
+   clip-path="url(#SVGID_14_)"
+   id="g26468">
+		<defs
+   id="defs26470">
+  <rect
+     id="SVGID_15_"
+     x="206.907"
+     y="490.63"
+     width="13"
+     height="13" />
+</defs>
+
+		<clipPath
+   id="clipPath30942">
+			<use
+   xlink:href="#SVGID_15_"
+   overflow="visible"
+   id="use30944"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="744.09448"
+   height="1052.3622" />
+
+		</clipPath>
+
+		<g
+   transform="translate(-1.525879e-5,-3.051758e-5)"
+   clip-path="url(#SVGID_16_)"
+   id="g26476">
+			
+				<image
+   overflow="visible"
+   width="12"
+   height="12"
+   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAACXBIWXMAAAomAAAKJgFRqakzAAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADlJREFUeNpi/P//Pz8DA4MBA/Hg AwtQE0jDARI0HWD5+/cvA6lgmGr6NxoQIE3//v37QGIyugAQYABJ0ywsLXx0owAAAABJRU5ErkJg gg=="
+   transform="matrix(1.0833,0,0,1.0833,206.9072,490.6299)"
+   id="image26478"
+   style="overflow:visible">
+			</image>
+
+		</g>
+
+	</g>
+
+</g>
+    <path
+       stroke-miterlimit="10"
+       d="M 228.19667,222.30302 C 230.53967,224.64702 230.53967,228.44602 228.19667,230.78802 C 225.85367,233.13202 222.05467,233.13202 219.71167,230.78802 C 217.36867,228.44502 217.36867,224.64602 219.71167,222.30302 C 222.05467,219.96002 225.85467,219.96002 228.19667,222.30302"
+       id="path26480"
+       style="fill:none;stroke:#6d6d6d;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+    <text
+       font-size="13"
+       id="text26482"
+       x="236.51447"
+       y="230.54591"
+       style="font-size:13px;font-family:ArialMT">Option 1</text>
+    <path
+       d="M 225.85567,224.42502 C 227.02767,225.59602 227.02767,227.49502 225.85567,228.66702 C 224.68467,229.83902 222.78467,229.83902 221.61367,228.66702 C 220.44167,227.49502 220.44167,225.59602 221.61367,224.42502 C 222.78467,223.25302 224.68467,223.25302 225.85567,224.42502"
+       id="path26484" />
+  </g>
+</svg>

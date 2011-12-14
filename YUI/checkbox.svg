@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="218.4883"
+   height="14.373981"
+   id="svg30814"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="checkbox.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs30816">
+    <clipPath
+       id="SVGID_8_">
+      <use
+         xlink:href="#SVGID_7_"
+         overflow="visible"
+         id="use26422"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622" />
+    </clipPath>
+    <clipPath
+       id="SVGID_6_">
+      <use
+         xlink:href="#SVGID_5_"
+         overflow="visible"
+         id="use26414"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622" />
+    </clipPath>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective30822" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="15.844099"
+     inkscape:cy="10.572137"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="736"
+     inkscape:window-height="707"
+     inkscape:window-x="638"
+     inkscape:window-y="292" />
+  <metadata
+     id="metadata30819">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(206.38701,-39.460907)">
+    <g
+       id="g26408"
+       transform="translate(-413.947,-511.99911)">
+      <defs
+         id="defs26410">
+        <rect
+           id="SVGID_5_"
+           x="208.06"
+           y="551.96002"
+           width="12"
+           height="12" />
+      </defs>
+      <clipPath
+         id="clipPath30831">
+        <use
+           xlink:href="#SVGID_5_"
+           overflow="visible"
+           id="use30833"
+           style="overflow:visible"
+           x="0"
+           y="0"
+           width="744.09448"
+           height="1052.3622" />
+      </clipPath>
+      <g
+         clip-path="url(#SVGID_6_)"
+         id="g26416">
+        <defs
+           id="defs26418">
+          <rect
+             id="SVGID_7_"
+             x="207.56"
+             y="551.46002"
+             width="13"
+             height="13" />
+        </defs>
+        <clipPath
+           id="clipPath30838">
+          <use
+             xlink:href="#SVGID_7_"
+             overflow="visible"
+             id="use30840"
+             style="overflow:visible"
+             x="0"
+             y="0"
+             width="744.09448"
+             height="1052.3622" />
+        </clipPath>
+        <g
+           transform="translate(-1.525879e-5,-6.103516e-5)"
+           clip-path="url(#SVGID_8_)"
+           id="g26424">
+          <image
+             overflow="visible"
+             width="12"
+             height="12"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAACXBIWXMAAAomAAAKJgFRqakzAAAA GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADtJREFUeNpi/P//vzwDA4MCA/Hg AcO/f//qgfg/Cbie5e/fvwykgmGq6d9oQIA0AZPFAyB9gJS0BxBgAEboWhAG1AoEAAAAAElFTkSu QmCC"
+             transform="matrix(1.0833,0,0,1.0833,207.5601,551.46)"
+             id="image26426"
+             style="overflow:visible" />
+        </g>
+      </g>
+    </g>
+    <rect
+       x="-205.88701"
+       y="39.960907"
+       stroke-miterlimit="10"
+       width="12"
+       height="12"
+       id="rect26428"
+       style="fill:none;stroke:#6d6d6d;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+    <text
+       font-size="13"
+       id="text26430"
+       x="-187.10721"
+       y="51.130787"
+       style="font-size:13px;font-family:ArialMT">What checking this box means</text>
+    <path
+       d="M -195.86469,42.203361 C -195.86469,42.622361 -196.05369,43.030361 -196.43369,43.428361 L -196.49269,43.487361 L -199.81169,46.984361 C -200.51669,47.725361 -201.11769,48.298361 -201.61369,48.703361 C -202.10969,49.107361 -202.45969,49.309361 -202.66369,49.309361 C -202.87869,49.309361 -203.14469,49.208361 -203.46369,49.006361 C -203.78169,48.804361 -203.98769,48.595361 -204.08169,48.380361 C -204.16069,48.201361 -204.23469,47.821361 -204.30469,47.241361 C -204.37469,46.661361 -204.40969,46.032361 -204.40969,45.355361 C -204.40969,44.987361 -204.25569,44.645361 -203.94769,44.333361 C -203.63969,44.020361 -203.29969,43.862361 -202.92669,43.862361 C -202.57269,43.862361 -202.36069,44.186361 -202.29269,44.835361 C -202.28569,44.910361 -202.27969,44.966361 -202.27669,45.001361 C -202.21869,45.499361 -202.15269,45.847361 -202.07769,46.043361 C -202.00269,46.240361 -201.90069,46.339361 -201.77169,46.339361 C -201.71769,46.339361 -201.61769,46.280361 -201.47069,46.164361 C -201.32369,46.048361 -201.14869,45.890361 -200.94469,45.688361 L -197.53369,42.310361 C -197.24669,42.024361 -196.99169,41.807361 -196.76569,41.660361 C -196.53969,41.514361 -196.34869,41.440361 -196.19069,41.440361 C -196.07269,41.440361 -195.98769,41.485361 -195.93869,41.574361 C -195.88869,41.664361 -195.86369,41.814361 -195.86369,42.025361 L -195.86369,42.203361 L -195.86469,42.203361 z"
+       id="path26658" />
+  </g>
+</svg>
